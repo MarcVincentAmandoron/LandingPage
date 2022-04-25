@@ -35,7 +35,7 @@ ul {
 }
 
 .container {
-    max-width: 55%;
+    max-width: 1250px;
     margin: 0 auto;
     padding: 20px 30px;
 }
@@ -82,12 +82,8 @@ ul {
     height: 400px;
     padding-left: 32px;
     padding-bottom: 30px;
-    flex: 1 0 1;
 }
 
-.container .desc {
-    flex: 1 1 auto;
-}
 .desc h2 {
     padding-bottom: 30px;
     font-size: 38px;
