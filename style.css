@@ -18,10 +18,7 @@ ul {
     list-style-type: none;
 }
 
-.desc img {
-    max-width: 50%;
-    max-height: 40%;
-}
+
 
 .navbar {
     color: rgb(245,245,245);
@@ -80,13 +77,17 @@ ul {
     justify-content: space-between;
 }
 
-.description img {
-    max-width: 60%;
-    max-height: 400px;
+.description .container img {
+    width: 600px;
+    height: 400px;
     padding-left: 32px;
     padding-bottom: 30px;
+    flex: 1 0 1;
 }
 
+.container .desc {
+    flex: 1 1 auto;
+}
 .desc h2 {
     padding-bottom: 30px;
     font-size: 38px;
