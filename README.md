@@ -10,4 +10,4 @@ This project is an example landing page built along the foundational knoweldge c
 
 ## See the landing page in action!
 
-<a href = "https://marcvincentamandoron.github.io/LandingPage/" target = "_blank">Click here to see the landing page in action!e</a>
+<a href = "https://marcvincentamandoron.github.io/LandingPage/" target = "_blank">Click here to see the landing page in action!</a>
