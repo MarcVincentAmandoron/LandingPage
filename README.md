@@ -4,7 +4,7 @@
 
 This project is an example landing page built along the foundational knoweldge course from theOdinProject utilizing HTML and CSS. It is currently nonfunctional and serves as a step for my full-stack learning curriculum. Further functionality will be added as I continue to learn more about web development and javascript. Every part of this project showcases the foundations of creating a website from scratch with the following tools:
 
-* HTML boilertplate
+* HTML 
 * FlexBox
 * CSS
 
